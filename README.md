@@ -82,11 +82,8 @@ The high "Avg Balance" for these high-risk customers quantifies the significant 
 
 #### **Dashboard Page 2: Churn Driver Analysis**
 * **Insights:**
-The visuals clearly indicate that customers with **"1 Product" exhibit the highest absolute churn**, suggesting they have fewer ties to the bank and are easier to lose. Conversely, customers with **"2 Products" often show the lowest churn rates**, highlighting a sweet spot for customer stickiness. A notable insight can be a *spike* in churn for customers with **"3+ Products"**, which might indicate dissatisfaction due to complexity or perceived value for money.
-**"Inactive Members" consistently have a significantly higher churn rate** than "Active Members," emphasizing the importance of ongoing engagement.
-* **Age Group Dynamics** Insights into which "Age Group" contributes the most to churn (e.g., 40-49 might have the highest *volume* of churn, while perhaps older groups might have higher *rates*).
-* **Geographic Variations:** Identifies specific "Geography" regions that have disproportionately higher churn rates, suggesting a need for localized retention strategies or product adjustments.
-* 
+The visuals clearly indicate that customers with **"1 Product" exhibit the highest absolute churn**, suggesting they have fewer ties to the bank and are easier to lose. Conversely, customers with **"2 Products" often show the lowest churn rates**, highlighting a sweet spot for customer stickiness. A notable insight can be a *spike* in churn for customers with **"3+ Products"**, which might indicate dissatisfaction due to complexity or perceived value for money.**"Inactive Members" consistently have a significantly higher churn rate** than "Active Members," emphasizing the importance of ongoing engagement.**Age Group Dynamics** Insights into which "Age Group" contributes the most to churn (e.g., 40-49 might have the highest *volume* of churn, while perhaps older groups might have higher *rates*).**Geographic Variations:** Identifies specific "Geography" regions that have disproportionately higher churn rates, suggesting a need for localized retention strategies or product adjustments.
+ 
 #### **Dashboard Page 3: High-Risk Customer Identification**
 * **Insights:**
 Provides a precise list of individual customers who are most likely to churn. This transforms abstract probabilities into concrete leads for intervention.
