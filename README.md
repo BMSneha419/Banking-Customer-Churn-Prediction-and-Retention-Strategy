@@ -72,7 +72,7 @@ This project delivers a comprehensive solution for predicting and strategizing a
 * **Explanation:** The final DataFrame, now enriched with `Churn Probability` and `Churn Risk Segment` columns, is exported to a CSV file named `customer_churn_insights_for_powerbi.csv`. This CSV file serves as the primary data source for the Power BI dashboard, ensuring that all derived insights are readily available for visualization. The notebook confirms successful export.
 * **Insights:** This final step makes the complex analytical results accessible. The Power BI dashboard provides a dynamic interface for business users to filter, drill down, and gain deeper insights, fostering data-driven decision-making for churn prevention.
 
-## Detailed Insights from Power BI Dashboard
+## Insights from Power BI Dashboard
 #### **Dashboard Page 1: Executive Churn Overview**
 
 * **Insights:**
